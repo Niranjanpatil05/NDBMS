@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Department,Year,Section,Email,Course_Code,Course_Name,Internal1,Internal2,Final,Total,Total_Classes,Attended_Classes,Attendance_Percentage,Activity_Type,Event_Name,Level,Points
+S101,Student_101,M,CIVIL,4,B,student_101@college.edu,ME303,Digital Electronics,11,21,36,68,21,20,95.24,Hackathon,Tech Event 4,College,9
+S102,Student_102,F,CIVIL,3,C,student_102@college.edu,EC404,Structural Analysis,21,19,38,78,22,22,100.0,Hackathon,Dev Event 4,National,16
+S103,Student_103,F,CIVIL,3,B,student_103@college.edu,CE505,Intro to Programming,15,14,50,79,20,18,90.0,Sports,Arts Event 8,College,5
+S104,Student_104,M,EEE,4,B,student_104@college.edu,CE505,Digital Electronics,14,15,45,74,18,18,100.0,Volunteer,Dev Event 8,National,28
+S105,Student_105,M,CSE,3,C,student_105@college.edu,EE202,Thermodynamics,13,23,33,69,22,22,100.0,Sports,Dev Event 9,National,17
+S106,Student_106,F,CSE,2,B,student_106@college.edu,EC404,Structural Analysis,14,15,36,65,19,18,94.74,Sports,Sports Event 2,State,22
+S107,Student_107,M,CSE,4,C,student_107@college.edu,CE505,Thermodynamics,12,22,36,70,25,20,80.0,Cultural,Tech Event 3,National,27
+S108,Student_108,M,CSE,1,B,student_108@college.edu,CE505,Intro to Programming,12,15,46,73,23,17,73.91,Hackathon,Social Event 8,National,7
+S109,Student_109,M,EEE,2,C,student_109@college.edu,EE202,Thermodynamics,24,18,43,85,22,15,68.18,Sports,Sports Event 1,College,18
+S110,Student_110,F,ME,3,B,student_110@college.edu,CE505,Intro to Programming,16,25,35,76,18,13,72.22,Workshop,Sports Event 8,State,13
+S111,Student_111,F,ECE,2,C,student_111@college.edu,CS101,Thermodynamics,18,17,30,65,24,23,95.83,Sports,Sports Event 2,National,21
+S112,Student_112,M,CIVIL,2,C,student_112@college.edu,EC404,Digital Electronics,24,11,50,85,25,18,72.0,Cultural,Dev Event 8,College,29
+S113,Student_113,M,CSE,4,B,student_113@college.edu,CS101,Thermodynamics,23,14,48,85,20,16,80.0,Volunteer,Dev Event 3,College,24
+S114,Student_114,M,CIVIL,3,B,student_114@college.edu,EC404,Structural Analysis,17,19,34,70,21,20,95.24,Workshop,Arts Event 3,National,17
+S115,Student_115,F,ECE,1,A,student_115@college.edu,CE505,Thermodynamics,16,15,47,78,22,22,100.0,Volunteer,Social Event 5,College,16
+S116,Student_116,F,CIVIL,2,B,student_116@college.edu,EC404,Intro to Programming,24,16,43,83,22,22,100.0,Volunteer,Social Event 2,College,21
+S117,Student_117,M,EEE,2,A,student_117@college.edu,CS101,Thermodynamics,23,16,42,81,23,16,69.57,Workshop,Dev Event 2,State,18
+S118,Student_118,M,ME,4,C,student_118@college.edu,CS101,Intro to Programming,21,19,50,90,21,15,71.43,Hackathon,Social Event 9,National,24
+S119,Student_119,F,CSE,2,C,student_119@college.edu,EE202,Circuit Theory,23,18,48,89,18,15,83.33,Volunteer,Tech Event 9,College,8
+S120,Student_120,F,CSE,2,C,student_120@college.edu,EE202,Circuit Theory,17,14,45,76,20,14,70.0,Sports,Dev Event 2,State,28
+S121,Student_121,F,ECE,2,B,student_121@college.edu,ME303,Structural Analysis,10,15,38,63,23,20,86.96,Hackathon,Social Event 1,State,28
+S122,Student_122,F,ECE,2,B,student_122@college.edu,ME303,Digital Electronics,22,15,34,71,23,22,95.65,Volunteer,Arts Event 4,College,25
+S123,Student_123,M,EEE,1,B,student_123@college.edu,CS101,Structural Analysis,25,23,46,94,25,25,100.0,Sports,Social Event 3,National,5
+S124,Student_124,F,ECE,3,A,student_124@college.edu,CE505,Intro to Programming,25,17,42,84,24,17,70.83,Hackathon,Social Event 1,State,15
+S125,Student_125,M,CIVIL,1,A,student_125@college.edu,CS101,Thermodynamics,11,23,47,81,25,22,88.0,Cultural,Tech Event 3,College,5
+S126,Student_126,F,CIVIL,2,A,student_126@college.edu,EE202,Circuit Theory,11,10,37,58,23,16,69.57,Cultural,Arts Event 7,State,16
+S127,Student_127,F,ME,4,B,student_127@college.edu,CE505,Digital Electronics,17,25,47,89,23,21,91.3,Hackathon,Tech Event 8,State,22
+S128,Student_128,M,CSE,2,C,student_128@college.edu,EC404,Thermodynamics,21,13,43,77,25,18,72.0,Sports,Sports Event 1,National,14
+S129,Student_129,F,ME,3,C,student_129@college.edu,EE202,Thermodynamics,12,12,50,74,22,16,72.73,Sports,Tech Event 10,National,21
+S130,Student_130,F,CSE,3,A,student_130@college.edu,EC404,Intro to Programming,21,18,38,77,23,16,69.57,Cultural,Tech Event 6,State,21
+S131,Student_131,F,ME,2,A,student_131@college.edu,ME303,Digital Electronics,11,22,42,75,18,15,83.33,Hackathon,Tech Event 4,College,25
+S132,Student_132,F,CSE,1,A,student_132@college.edu,EC404,Thermodynamics,15,14,41,70,25,20,80.0,Hackathon,Tech Event 2,National,19
+S133,Student_133,F,ME,1,A,student_133@college.edu,EC404,Circuit Theory,22,17,45,84,25,18,72.0,Sports,Tech Event 3,National,21
+S134,Student_134,M,ECE,4,C,student_134@college.edu,EE202,Intro to Programming,23,25,50,98,19,18,94.74,Sports,Dev Event 1,State,26
+S135,Student_135,M,EEE,4,A,student_135@college.edu,CE505,Structural Analysis,10,22,36,68,23,17,73.91,Workshop,Dev Event 6,State,25
+S136,Student_136,M,EEE,3,B,student_136@college.edu,CE505,Intro to Programming,22,19,45,86,21,19,90.48,Cultural,Social Event 6,National,22
+S137,Student_137,M,ECE,2,B,student_137@college.edu,CE505,Thermodynamics,12,22,31,65,23,21,91.3,Cultural,Tech Event 8,National,22
+S138,Student_138,M,ME,4,A,student_138@college.edu,EC404,Circuit Theory,22,15,31,68,22,22,100.0,Cultural,Dev Event 5,National,29
+S139,Student_139,F,CSE,3,A,student_139@college.edu,ME303,Intro to Programming,15,19,36,70,18,16,88.89,Cultural,Arts Event 7,National,12
+S140,Student_140,F,EEE,3,B,student_140@college.edu,EE202,Circuit Theory,17,18,32,67,21,21,100.0,Workshop,Social Event 7,State,25
+S141,Student_141,M,CSE,4,C,student_141@college.edu,ME303,Circuit Theory,11,23,37,71,20,20,100.0,Workshop,Tech Event 2,College,25
+S142,Student_142,M,CSE,1,B,student_142@college.edu,EE202,Intro to Programming,14,25,43,82,25,24,96.0,Volunteer,Tech Event 10,National,19
+S143,Student_143,F,ME,4,C,student_143@college.edu,EE202,Structural Analysis,16,12,44,72,20,15,75.0,Workshop,Sports Event 4,National,22
+S144,Student_144,M,CIVIL,2,B,student_144@college.edu,ME303,Intro to Programming,21,20,42,83,18,18,100.0,Volunteer,Sports Event 6,College,18
+S145,Student_145,F,ECE,3,C,student_145@college.edu,ME303,Intro to Programming,11,22,31,64,21,17,80.95,Cultural,Dev Event 10,State,20
+S146,Student_146,M,CSE,3,A,student_146@college.edu,CE505,Thermodynamics,15,20,35,70,23,21,91.3,Workshop,Arts Event 1,College,12
+S147,Student_147,F,ME,3,A,student_147@college.edu,CS101,Intro to Programming,18,13,47,78,22,17,77.27,Volunteer,Social Event 3,College,14
+S148,Student_148,M,CIVIL,1,C,student_148@college.edu,EC404,Thermodynamics,19,18,37,74,24,21,87.5,Volunteer,Social Event 4,State,17
+S149,Student_149,M,CSE,2,C,student_149@college.edu,ME303,Circuit Theory,18,16,36,70,20,16,80.0,Workshop,Social Event 2,State,23
+S150,Student_150,M,CIVIL,3,C,student_150@college.edu,CE505,Thermodynamics,24,15,50,89,22,15,68.18,Workshop,Social Event 2,College,20
+S151,Student_151,M,EEE,4,A,student_151@college.edu,CE505,Intro to Programming,11,11,44,66,19,17,89.47,Volunteer,Social Event 8,State,28
+S152,Student_152,M,ME,4,B,student_152@college.edu,EE202,Intro to Programming,15,25,42,82,24,24,100.0,Workshop,Dev Event 4,State,16
+S153,Student_153,M,CSE,1,A,student_153@college.edu,CE505,Circuit Theory,23,25,39,87,20,15,75.0,Workshop,Arts Event 9,State,7
+S154,Student_154,F,CSE,4,A,student_154@college.edu,EE202,Circuit Theory,24,20,42,86,20,20,100.0,Volunteer,Arts Event 8,State,28
+S155,Student_155,F,CSE,3,B,student_155@college.edu,CS101,Circuit Theory,20,24,31,75,22,17,77.27,Cultural,Arts Event 4,National,27
+S156,Student_156,M,EEE,1,C,student_156@college.edu,CE505,Intro to Programming,18,24,35,77,21,17,80.95,Cultural,Dev Event 1,College,19
+S157,Student_157,F,CIVIL,1,B,student_157@college.edu,EC404,Digital Electronics,24,15,30,69,25,17,68.0,Sports,Social Event 7,College,16
+S158,Student_158,M,CIVIL,1,B,student_158@college.edu,CE505,Structural Analysis,16,25,32,73,25,24,96.0,Hackathon,Tech Event 2,National,28
+S159,Student_159,F,CIVIL,3,B,student_159@college.edu,EC404,Thermodynamics,14,15,48,77,22,15,68.18,Workshop,Sports Event 10,National,29
+S160,Student_160,F,CIVIL,3,B,student_160@college.edu,EC404,Digital Electronics,25,10,46,81,23,21,91.3,Sports,Social Event 9,National,11
+S161,Student_161,M,CIVIL,4,C,student_161@college.edu,EE202,Intro to Programming,18,24,49,91,23,23,100.0,Workshop,Tech Event 1,State,17
+S162,Student_162,F,CSE,3,B,student_162@college.edu,ME303,Intro to Programming,19,20,32,71,24,16,66.67,Sports,Dev Event 9,State,23
+S163,Student_163,M,CIVIL,2,A,student_163@college.edu,CE505,Structural Analysis,14,17,31,62,23,16,69.57,Workshop,Social Event 6,State,19
+S164,Student_164,M,EEE,2,A,student_164@college.edu,EE202,Thermodynamics,17,19,32,68,21,20,95.24,Cultural,Dev Event 8,National,17
+S165,Student_165,F,CSE,1,A,student_165@college.edu,CS101,Circuit Theory,13,11,44,68,18,15,83.33,Cultural,Arts Event 7,National,6
+S166,Student_166,F,ECE,3,A,student_166@college.edu,CE505,Intro to Programming,11,20,38,69,22,17,77.27,Hackathon,Arts Event 2,National,30
+S167,Student_167,F,ECE,1,A,student_167@college.edu,EC404,Digital Electronics,13,23,41,77,19,16,84.21,Workshop,Social Event 7,National,12
+S168,Student_168,M,EEE,2,B,student_168@college.edu,ME303,Thermodynamics,18,10,36,64,24,20,83.33,Volunteer,Tech Event 4,National,25
+S169,Student_169,F,ME,4,A,student_169@college.edu,CS101,Digital Electronics,14,10,38,62,18,16,88.89,Volunteer,Social Event 2,College,28
+S170,Student_170,F,ME,2,A,student_170@college.edu,CE505,Circuit Theory,12,24,47,83,22,20,90.91,Cultural,Tech Event 9,National,29
+S171,Student_171,F,CIVIL,2,C,student_171@college.edu,EC404,Intro to Programming,18,15,38,71,20,17,85.0,Sports,Tech Event 10,State,14
+S172,Student_172,M,EEE,1,B,student_172@college.edu,CE505,Thermodynamics,16,22,39,77,24,18,75.0,Sports,Sports Event 4,National,26
+S173,Student_173,M,CIVIL,1,C,student_173@college.edu,CE505,Structural Analysis,13,25,36,74,24,19,79.17,Sports,Arts Event 6,College,5
+S174,Student_174,M,ECE,1,B,student_174@college.edu,EC404,Circuit Theory,19,23,38,80,22,19,86.36,Sports,Tech Event 2,College,16
+S175,Student_175,M,CIVIL,2,B,student_175@college.edu,CS101,Intro to Programming,11,23,37,71,18,12,66.67,Cultural,Dev Event 5,State,24
+S176,Student_176,F,ME,1,B,student_176@college.edu,CE505,Thermodynamics,19,24,33,76,23,19,82.61,Cultural,Sports Event 6,College,17
+S177,Student_177,M,EEE,3,B,student_177@college.edu,EC404,Thermodynamics,25,23,47,95,25,20,80.0,Hackathon,Sports Event 2,National,6
+S178,Student_178,M,ECE,4,C,student_178@college.edu,EE202,Structural Analysis,16,20,30,66,21,17,80.95,Sports,Dev Event 9,College,28
+S179,Student_179,M,ME,1,B,student_179@college.edu,CE505,Intro to Programming,17,24,36,77,21,17,80.95,Hackathon,Sports Event 4,National,11
+S180,Student_180,M,ME,3,C,student_180@college.edu,ME303,Thermodynamics,15,18,31,64,20,17,85.0,Sports,Tech Event 3,National,9
+S181,Student_181,F,ME,4,C,student_181@college.edu,EC404,Digital Electronics,25,23,48,96,19,13,68.42,Hackathon,Arts Event 10,College,15
+S182,Student_182,F,ECE,3,B,student_182@college.edu,CE505,Circuit Theory,11,10,43,64,18,13,72.22,Cultural,Dev Event 10,National,13
+S183,Student_183,M,ECE,4,C,student_183@college.edu,CE505,Digital Electronics,17,15,40,72,18,14,77.78,Workshop,Dev Event 1,State,8
+S184,Student_184,M,CSE,4,B,student_184@college.edu,ME303,Circuit Theory,20,16,43,79,20,19,95.0,Sports,Dev Event 8,National,10
+S185,Student_185,M,CIVIL,2,B,student_185@college.edu,EE202,Digital Electronics,15,14,48,77,21,16,76.19,Hackathon,Tech Event 2,National,30
+S186,Student_186,F,ECE,2,C,student_186@college.edu,EE202,Structural Analysis,17,22,34,73,20,15,75.0,Workshop,Sports Event 5,College,13
+S187,Student_187,F,ECE,4,C,student_187@college.edu,ME303,Structural Analysis,11,24,33,68,19,15,78.95,Cultural,Sports Event 2,State,13
+S188,Student_188,M,ME,1,C,student_188@college.edu,CS101,Intro to Programming,23,14,31,68,25,19,76.0,Hackathon,Dev Event 9,College,9
+S189,Student_189,M,ECE,1,C,student_189@college.edu,EE202,Thermodynamics,11,18,43,72,24,17,70.83,Cultural,Tech Event 8,National,10
+S190,Student_190,F,CSE,3,C,student_190@college.edu,ME303,Structural Analysis,23,17,48,88,23,18,78.26,Sports,Social Event 8,National,23
+S191,Student_191,M,CSE,4,A,student_191@college.edu,CS101,Thermodynamics,11,10,45,66,24,22,91.67,Cultural,Sports Event 1,National,8
+S192,Student_192,M,EEE,2,C,student_192@college.edu,EC404,Structural Analysis,11,25,42,78,21,14,66.67,Sports,Social Event 2,National,19
+S193,Student_193,M,CIVIL,3,A,student_193@college.edu,EC404,Intro to Programming,24,23,35,82,24,16,66.67,Cultural,Social Event 5,State,12
+S194,Student_194,M,CSE,3,B,student_194@college.edu,EC404,Digital Electronics,23,24,40,87,23,22,95.65,Hackathon,Social Event 3,College,20
+S195,Student_195,M,EEE,4,C,student_195@college.edu,EC404,Structural Analysis,22,15,30,67,19,14,73.68,Cultural,Tech Event 1,College,11
+S196,Student_196,F,EEE,4,B,student_196@college.edu,CE505,Digital Electronics,12,23,41,76,20,15,75.0,Volunteer,Tech Event 7,College,11
+S197,Student_197,M,CIVIL,4,B,student_197@college.edu,CS101,Structural Analysis,19,14,47,80,19,19,100.0,Cultural,Social Event 10,State,28
+S198,Student_198,M,ECE,4,B,student_198@college.edu,EC404,Digital Electronics,14,13,48,75,20,16,80.0,Hackathon,Tech Event 6,State,20
+S199,Student_199,M,CSE,2,C,student_199@college.edu,EC404,Digital Electronics,17,17,33,67,25,21,84.0,Workshop,Sports Event 9,National,19
+S200,Student_200,F,EEE,1,C,student_200@college.edu,CS101,Circuit Theory,20,16,40,76,20,15,75.0,Workshop,Dev Event 5,College,24
